@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-<iframe src="[https://open.spotify.com/embed/track/1dmES1X8l1AnFBy2gR3wYA](https://open.spotify.com/track/2RLXxWWy0ZU2p9DjZie2q0?si=8da1f63cc22b4c8a)" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media" data-external="1"></iframe>
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](spotify:track:2RLXxWWy0ZU2p9DjZie2q0)
 
 <!--
 **Benjax14/Benjax14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
